@@ -17,3 +17,12 @@
 
 ![histCont](https://github.com/RubenJTL/TOPICO-DE-COMPUTACION-GRAFICA/blob/master/Editor/IMAGENES/histCont.PNG)
 
+
+### Interfaz con imagen con laplacian
+![Contraste](https://github.com/RubenJTL/TOPICO-DE-COMPUTACION-GRAFICA/blob/master/Editor/IMAGENES/laplacian.PNG)
+
+### Interfaz con imagen con laplacian
+![Contraste](https://github.com/RubenJTL/TOPICO-DE-COMPUTACION-GRAFICA/blob/master/Editor/IMAGENES/realcebordes.PNG)
+
+
+
