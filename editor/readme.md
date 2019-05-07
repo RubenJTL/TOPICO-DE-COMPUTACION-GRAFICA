@@ -21,6 +21,6 @@
 ### Interfaz con imagen con laplacian
 ![Contraste](https://github.com/RubenJTL/TOPICO-DE-COMPUTACION-GRAFICA/blob/master/editor/IMAGENES/laplacian.PNG)
 
-### Interfaz con imagen con laplacian
+### Interfaz con imagen con Realce de bordes
 ![Contraste](https://github.com/RubenJTL/TOPICO-DE-COMPUTACION-GRAFICA/blob/master/editor/IMAGENES/realcebordes.PNG)
 
