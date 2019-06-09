@@ -14,7 +14,7 @@ Para la ejecucion del mismo primero indicar que imagen se desea realizar la tran
   ![](https://github.com/RubenJTL/TOPICO-DE-COMPUTACION-GRAFICA/blob/master/Transformacion/TRANSFORMACIONBILINEAL/img3conAuto.PNG)
   #### Eje Y+
   ![](https://github.com/RubenJTL/TOPICO-DE-COMPUTACION-GRAFICA/blob/master/Transformacion/TRANSFORMACIONBILINEAL/img1.PNG)
-  ![](https://github.com/RubenJTL/TOPICO-DE-COMPUTACION-GRAFICA/blob/master/Transformacion/TRANSFORMACIONBILINEAL/imgconAuto.PNG)
+  ![](https://github.com/RubenJTL/TOPICO-DE-COMPUTACION-GRAFICA/blob/master/Transformacion/TRANSFORMACIONBILINEAL/img1conAuto.PNG)
   #### Eje Y-
   ![](https://github.com/RubenJTL/TOPICO-DE-COMPUTACION-GRAFICA/blob/master/Transformacion/TRANSFORMACIONBILINEAL/img2.PNG)
   ![](https://github.com/RubenJTL/TOPICO-DE-COMPUTACION-GRAFICA/blob/master/Transformacion/TRANSFORMACIONBILINEAL/img2conAuto.PNG)
